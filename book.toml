@@ -1,0 +1,5 @@
+[book]
+authors = ["Maria Pereira"]
+language = "en"
+src = "src"
+title = "My first mdBook"
