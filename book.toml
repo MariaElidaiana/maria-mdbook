@@ -2,4 +2,15 @@
 authors = ["Maria Pereira"]
 language = "en"
 src = "src"
-title = "My first mdBook"
+title = "maria mdbook"
+
+[preprocessor.alerts]
+
+[preprocessor.emojicodes]
+
+[output.html]
+mathjax-support = true
+
+[preprocessor.embedify]
+footer.enable = true
+footer.message = "Copyright © 2025 • By [Maria Pereira](https://mariaelidaiana.github.io/)"
